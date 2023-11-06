@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../HTML_CH11_LAB"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "HTML_CH12_LAB"
+	}
+}
